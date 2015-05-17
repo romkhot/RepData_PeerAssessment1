@@ -154,6 +154,5 @@ print(avg_data_wend_plot)
 ``` 
 
 **Conclusion 2**  
-*Looks like activity is usually higher on the weekends, particularly in
-the middle of the day. In the weekend morning just after waking activity
-is lower than  usually.* 
+*Looks like activity is usually higher on the weekends, particularly in the middle of the day.
+Activity is lower than usually in the weekend morning just after waking.* 

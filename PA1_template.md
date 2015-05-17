@@ -223,6 +223,5 @@ Plot in two facets using **week\_part** as a factor variable:
 ![](figure/facet.plot-1.png)
 
 **Conclusion 2**  
-*Looks like activity is usually higher on the weekends, particularly in
-the middle of the day. In the weekend morning just after waking activity
-is lower than usually.*
+*Looks like activity is usually higher on the weekends, particularly in the middle of the day.
+Activity is lower than usually in the weekend morning just after waking.* 
